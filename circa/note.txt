@@ -1,0 +1,3 @@
+Try to use https://github.com/logisim-evolution/logisim-evolution/releases/latest
+
+Get that OK to 1!
