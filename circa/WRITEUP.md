@@ -25,6 +25,8 @@ Nah, karena ini simpelnya itu cuman nyari kombinasi benar/salah yang memenuhi sy
 
 Karena disini udah dapet apa aja yang harus di solve. Langsung saja saya lempar ke cetjipiti biar cepet.
 
+Note: karena nanti hasil output dari 200 bitnya itu cuman 1 atau 0, jadi harus convert dulu ke ascii 8bit.
+
 https://chatgpt.com/share/6a957783-f620-83ec-a913-4d49e1b719d4
 
 Setelah dapet file solvernya, saatnya ditest, dan didapatkan output flagnya.
